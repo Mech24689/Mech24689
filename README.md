@@ -21,4 +21,6 @@
 
 ##
 
-<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /><br/>
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  
+ ![Snake animation](https://github.com/Mech24689/Mech24689/blob/output/github-contribution-grid-snake.svg)
