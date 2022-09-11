@@ -7,6 +7,7 @@
   <a href="https://github.com/Mech24689">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mech24689&show_icons=true&title_color=A9FEF7&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mech24689&title_color=A9FEF7&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -20,7 +21,9 @@
 </div>
 <br/>
 <div align="center">
+<a href="https://www.linkedin.com/in/gabrie-dos-santos/">
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 </div>
   
   ##
