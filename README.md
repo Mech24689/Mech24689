@@ -1,5 +1,8 @@
+<div align="center">
 
+  ![nome-fundo](https://user-images.githubusercontent.com/95493916/189537249-5bd3d62b-ab4f-40ef-aa9f-894098962cbc.gif)
 
+</div>
 <div align="center">
   <a href="https://github.com/Mech24689">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mech24689&show_icons=true&title_color=A9FEF7&theme=radical&include_all_commits=true&count_private=true"/>
