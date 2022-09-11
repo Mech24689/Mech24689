@@ -1,8 +1,5 @@
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=42C920&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Mech24689.;No+momento+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;A+maioria+dos+meus+c%C3%B3digos+guardo+aqui.;Seja+ele+de+Front-end+ou+Back-end.;Fique+a+vontade+para+consult%C3%A1-los!;Espero+que+goste.)](https://git.io/typing-svg)
 
-  ![nome-fundo](https://user-images.githubusercontent.com/95493916/189537249-5bd3d62b-ab4f-40ef-aa9f-894098962cbc.gif)
-
-</div>
 <div align="center">
   <a href="https://github.com/Mech24689">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mech24689&show_icons=true&title_color=A9FEF7&theme=radical&include_all_commits=true&count_private=true"/>
