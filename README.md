@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=42C920&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Castro.;No+momento+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;A+maioria+dos+meus+c%C3%B3digos+guardo+aqui.;Seja+ele+de+Front-end+ou+Back-end.;Fique+a+vontade+para+consult%C3%A1-los!;Espero+que+goste.)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=Mech24689" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false&username=Mech24689" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=Mech24689" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&username=Mech24689" height="150" alt="languages graph"  />
 
 </div>
 <div align="center" style="display: inline_block"><br>
